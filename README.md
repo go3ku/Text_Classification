@@ -8,4 +8,4 @@ Supplier calls may be for a new appointment, acancellation, lab queries, renewal
 Tickets contain call summary details and call descriptions written by various
 staff without standard text instructions. 
 
-#The objective is to classify the ‘SUMMARY’ text into its categories and sub-categories.
+The objective is to classify the ‘SUMMARY’ text into its categories and sub-categories.
